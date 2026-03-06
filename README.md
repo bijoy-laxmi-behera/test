@@ -1,5 +1,4 @@
 # test
 
 Update README
-
-Co-authored-by: Rojalin Mohanty <mohantyrojalin700@gmail.com>
+Co-authored-by: Rojalin Mohanty <rosymohanty@users.noreply.github.com>
